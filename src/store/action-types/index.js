@@ -1,0 +1,5 @@
+export const DELETE_ITEM_FROM_CART = 'DELETE_ITEM_FROM_CART';
+export const REMOVE_FROM_CART = 'REMOVE_TO_CART';
+export const SET_LOGGED_IN = 'SET_LOGGED_IN';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const ADD_TO_CART = 'ADD_TO_CART';
